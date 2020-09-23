@@ -1,0 +1,19 @@
+configuration {
+	!			 bg	  border   separator
+	color-window argb:	"70000002, #000000, #000000";
+	eh:			"1";
+	lines:			"10";
+	fullscreen:		"true";
+	padding:		"300";
+	width: 			"200";
+	bw: 			"0";
+	run-command:		"bin/bash -i -c '{cmd}'";
+	font: 			"Noto Sans Display 17";
+	separator-style:	"none";
+	hide-scrollbar:		"true";
+	
+	!			 bg		fg		bgAlt		hlFg		hlBg
+	color-normal: 		"argb:00000000, 	#f3f4f5, 	argb:00000000, 	argb:00000000, 	#00a8e8";
+	color-urgent: 		"argb:00000000, 	#f3f4f5, 	argb:00000000, 	argb:00000000, 	#00a8e8";
+	color-active: 		"argb:00000000,		#f3f4f5, 	argb:00000000, 	argb:00000000, 	#00a8e8";
+}
