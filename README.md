@@ -8,3 +8,5 @@
 - neovim - editor
 - rofi - app launcher
 - nm-tui - network configurator
+- tmux - terminal tool
+- zsh - shell
