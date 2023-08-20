@@ -10,3 +10,8 @@
 - nm-tui - network configurator
 - tmux - terminal tool
 - zsh - shell
+
+### Install 
+```
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/benricok/dotfiles/debian/install.sh)"
+```
