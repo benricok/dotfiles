@@ -13,5 +13,5 @@
 
 ### Install 
 ```
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/benricok/dotfiles/debian/install.sh)"
+sudo sh -c "$(curl -fsSL https://raw.githubusercontent.com/benricok/dotfiles/debian/install.sh)"
 ```
